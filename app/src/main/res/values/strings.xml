@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LoginGroup</string>
+    <string name="email" />
+    <string name="password">password</string>
+    <string name="password_2">password_2</string>
+    <string name="canel">dffdf</string>
+    <string name="login">login</string>
 </resources>
