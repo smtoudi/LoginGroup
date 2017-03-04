@@ -30,4 +30,14 @@
         android:layout_alignEnd="@+id/editText"
         android:layout_marginTop="30dp"
         android:id="@+id/editText2" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText2"
+        android:layout_alignEnd="@+id/editText2"
+        android:layout_marginEnd="61dp"
+        android:id="@+id/button" />
+
 </RelativeLayout>
